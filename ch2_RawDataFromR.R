@@ -17,4 +17,4 @@ plot(x, ywnoise, xlab = NA, ylab = NA)
 linoise <- cbind(x, ywnoise)
 
 # Save the variable linoise as a CSV file on the local disk
-write.csv(linoise, file = "linoise.csv", row.names = FALSE)
+write.csv(linoise, file = "linoise_R.csv", row.names = FALSE)
