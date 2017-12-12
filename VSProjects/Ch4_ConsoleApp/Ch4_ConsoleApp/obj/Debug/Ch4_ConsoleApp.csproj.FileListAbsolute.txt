@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\Ch4_ConsoleApp.exe.config
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\Ch4_ConsoleApp.exe
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\Ch4_ConsoleApp.pdb
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\obj\Debug\Ch4_ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\obj\Debug\Ch4_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\obj\Debug\Ch4_ConsoleApp.exe
+C:\Users\user\Documents\Workspace\my-hol-azureml\VSProjects\Ch4\Ch4_ConsoleApp\Ch4_ConsoleApp\obj\Debug\Ch4_ConsoleApp.pdb
